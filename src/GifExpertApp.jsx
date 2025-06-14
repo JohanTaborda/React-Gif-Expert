@@ -14,7 +14,7 @@ const GifExpertApp = () => {
         }
 
         setCategory([newValue, ...category])
-    }
+    } 
 
     return (
         <>
